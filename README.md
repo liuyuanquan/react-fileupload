@@ -9,4 +9,4 @@ react版本的图片上传，功能有选择，拖拽，删除，预览
 - URL & FileReader
 
 # 链接
-[点我访问](./build/index.html)
+[点我访问](https://liuyuanquan.github.io/react-fileupload/build/index.html)
